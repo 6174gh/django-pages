@@ -1,6 +1,6 @@
 Django Project
 
-Hello World
+Pages
 
 Based on the book:
 Django for Beginners
